@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MYMODULES</string>
+    <string name="C346">C345 Mobile App Development</string>
+    <string name="C203">C203 Web AppIn Development in php</string>
+    <string name="C235">C235 IT Security and Management</string>
+    <string name="C218">C218 UI/UX Design for Apps</string>
+    <string name="C206">C206 Software Development Process</string>
+    <string name="Button">RETURN</string>
+</resources>

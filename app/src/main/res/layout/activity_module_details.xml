@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textCodeC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp" />
+
+    <TextView
+        android:id="@+id/C346Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp" />
+
+    <TextView
+        android:id="@+id/AcadYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp" />
+
+    <TextView
+        android:id="@+id/textSem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp" />
+
+    <TextView
+        android:id="@+id/ModCred"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp" />
+
+    <TextView
+        android:id="@+id/ModVen"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="18dp" />
+
+    <Button
+        android:id="@+id/returnbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp"
+        android:text="@string/Button" />
+
+</LinearLayout>
